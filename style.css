@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: linear-gradient(#fc0373 0%, #99e9ff 100%);
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#art{
+    width: 20%;
+        height:20%;
+     border-radius:20%
+}
+
